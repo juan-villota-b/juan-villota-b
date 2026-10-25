@@ -1,6 +1,6 @@
 ![Juan David Villota — Ingeniería Electrónica, UNAL Manizales](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:0F2A3F,100:0E7490&height=200&section=header&text=Juan%20David%20Villota&fontSize=44&fontColor=E2E8F0&fontAlignY=38&desc=Ingenier%C3%ADa%20Electr%C3%B3nica%20%C2%B7%20UNAL%20Manizales&descAlignY=58&descSize=15&animation=fadeIn)
 
-**Apuntes de hardware, firmware y sistemas embebidos.**
+**Hardware, firmware y sistemas embebidos.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-villota-bernal-7929573ba)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:juanda7031@gmail.com)
