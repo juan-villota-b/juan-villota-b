@@ -10,7 +10,7 @@
 
 ## 📓 Perfil
 
-Estudiante de **Ingeniería Electrónica** (VIII semestre) en la **Universidad Nacional de Colombia, Sede Manizales**. Proyectos y las decisiones técnicas detrás.
+Estudiante de **Ingeniería Electrónica** (VIII semestre) en la **Universidad Nacional de Colombia, Sede Manizales**. Proyectos y las decisiones técnicas detrás de estos.
 
 ---
 
